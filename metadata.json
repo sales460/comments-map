@@ -1,0 +1,5 @@
+{
+  "name": "Social Nexus Visualizer",
+  "description": "An interactive 3D-like social network graph visualizing connections, likes, and comments between hundreds of avatars.",
+  "requestFramePermissions": []
+}
